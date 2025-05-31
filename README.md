@@ -20,3 +20,6 @@ This tool is particularly useful for system administrators, developers, and anyo
 - **Extracts key information:** Clearly presents the device, mount point, filesystem type, and options.
 - **Pythonic:** Easy to integrate into other Python scripts or workflows.
 - **Command-line utility:** Can be used directly from the terminal for quick lookups.
+
+## License
+Apache 2.0
